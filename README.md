@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiro-root)](https://github.com/anuraghazra/github-readme-stats)
+[![hiro-root's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiro-root)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-root)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro-root)](https://github.com/hiro-root/github-profile-trophy)
 ### Hi there 👋
 
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
