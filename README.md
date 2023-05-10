@@ -1,9 +1,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiro-root&theme=default)
-[![hiro-root's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiro-root)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-root)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-root&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact
+<div align="left"> 
+  <img alt="Github stats" height="164.5px" src="https://github-readme-stats.vercel.app/api?username=hiro-root" />
+  <img alt="Top Langs" height="164.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-root&layout=compact" />
+</div>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro-root)](https://github.com/hiro-root/github-profile-trophy)
 ### Hi there 👋
 
