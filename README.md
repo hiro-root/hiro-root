@@ -1,3 +1,5 @@
+### Hi there 👋
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiro-root&theme=default)
 
 <div align="left"> 
@@ -5,9 +7,7 @@
   <img alt="Top Langs" height="164.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-root&layout=compact" />
 </div>
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro-root)](https://github.com/hiro-root/github-profile-trophy)
-### Hi there 👋
 
 <!--
 **hiro-root/hiro-root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
