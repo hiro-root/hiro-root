@@ -9,7 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro-root)](https://github.com/hiro-root/github-profile-trophy)
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws,azure,bash,bootstrap,c,cs,cpp,codepen,css,deno,discord,bots,django,docker,dotnet,eclipse,electron,elixir,firebase,webpack,supabase,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,heroku,html,js,jquery,kotlin,kubernetes,laravel,linux,lua,md,mongodb,mysql,nextjs,nginx,nodejs,nuxtjs,perl,php,postgres,powershell,py,qt,r,rails,react,ruby,stackoverflow,scala,selenium,unity,vim,visualstudio,vscode,vue" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=aws,azure,bash,bootstrap,c,cs,cpp,codepen,css,deno,discord,bots,django,docker,dotnet,eclipse,electron,elixir,firebase,webpack,supabase,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,heroku,html,js,jquery,kotlin,kubernetes,laravel,linux,lua,md,mongodb,mysql,nextjs,nginx,nodejs,nuxtjs,perl,php,postgres,powershell,py,qt,r,rails,react,ruby,stackoverflow,scala,selenium,unity,vim,visualstudio,vscode,vue" />
 
 
 
